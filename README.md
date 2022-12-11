@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emikadiani
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Katalon Studio
